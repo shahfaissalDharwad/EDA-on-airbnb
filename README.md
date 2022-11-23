@@ -34,3 +34,8 @@ Then, the train.py file must be executed, which leads to the production of the m
 3) test.py
 
 Finally, the test.py file must be executed to create the result.txt and evaluation.txt files. Just like the train.py file, at the beginning of this file, the  Airbnb Booking Analysis has been imported so that the functions defined in it can be used.
+
+# Credits
+< Shahfaissal I Dharwad > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+Contact me for Data Science Project Collaborations
