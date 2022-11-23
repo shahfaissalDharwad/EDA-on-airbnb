@@ -23,14 +23,14 @@ After the analysis, we concluded that this analysis will help the company to dec
 # Execution Instruction
 The order of execution of the program files is as follows:
 
-1) spam_detector.py
+1)  Airbnb Booking Analysis.py
 
 First, the spam_detector.py file must be executed to define all the functions and variables required for classification operations.
 
 2) train.py
 
-Then, the train.py file must be executed, which leads to the production of the model.txt file. At the beginning of this file, the spam_detector has been imported so that the functions defined in it can be used.
+Then, the train.py file must be executed, which leads to the production of the model.txt file. At the beginning of this file, the  Airbnb Booking Analysis has been imported so that the functions defined in it can be used.
 
 3) test.py
 
-Finally, the test.py file must be executed to create the result.txt and evaluation.txt files. Just like the train.py file, at the beginning of this file, the spam_detector has been imported so that the functions defined in it can be used.
+Finally, the test.py file must be executed to create the result.txt and evaluation.txt files. Just like the train.py file, at the beginning of this file, the  Airbnb Booking Analysis has been imported so that the functions defined in it can be used.
